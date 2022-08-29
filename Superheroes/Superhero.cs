@@ -17,6 +17,7 @@ namespace Superheroes
         private string _archenemy;
         private string _fear;
 
+        //Encapsulations
         public string SecretIdentity
         {
             get => _secretIdentity;
